@@ -1,0 +1,15 @@
+title: My Page
+description: >-
+  Personal site built with Jekyll and GitHub Pages
+
+theme: jekyll-theme-primer
+
+exclude:
+  - node_modules
+  - client/node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - yarn.lock
