@@ -1,0 +1,121 @@
+{
+  "name": "Jeevanandham Rajasekar",
+  "title": "AI Developer \u2022 Frontend \u2022 Java Full Stack",
+  "summary": "Motivated and detail-oriented developer with 2.5 years in AI development, frontend, and Java full-stack. Experienced with React, Angular, Node.js, and Spring Boot. Passionate about performance, automation and clean UX.",
+  "links": [
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/jeevanandham-rajasekar-a950bb16a"
+    },
+    {
+      "label": "Email",
+      "href": "mailto:jeevarajasekarj35@gmail.com"
+    },
+    {
+      "label": "Github",
+      "href": "https://github.com/JeevaJ35"
+    }
+  ],
+  "highlights": [
+    "Built AI automations using Yellow AI & Kore AI",
+    "Reduced task completion time via predictive analytics",
+    "Developed REST APIs with Spring Boot & Node/Express",
+    "Improved page load performance in React apps"
+  ],
+  "experience": [
+    {
+      "role": "AI Developer \u2022 Front-end \u2022 Java Full Stack",
+      "company": "Tata Consultancy Services (TCS)",
+      "duration": "Feb 2022 \u2013 Jun 2024",
+      "stack": [
+        "React",
+        "Angular",
+        "Node.js",
+        "Express",
+        "Spring Boot",
+        "SQL",
+        "Azure"
+      ],
+      "points": [
+        "Designed AI models and implemented ML-driven workflows to automate processes.",
+        "Built responsive UIs with React, HTML, CSS, JS; optimized performance and accessibility.",
+        "Developed RESTful APIs and integrated with front-end systems; added unit and integration tests."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "IA Automation",
+      "description": "AI solutions with Yellow AI/Kore AI to automate processes and enhance customer journeys.",
+      "stack": [
+        "Yellow AI",
+        "Kore AI",
+        "Azure",
+        "Node.js"
+      ],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "name": "Enento AI Platform",
+      "description": "Built AI systems using Angular, TypeScript, Node, Express and Azure for scalable solutions.",
+      "stack": [
+        "Angular",
+        "TypeScript",
+        "Node",
+        "Express",
+        "Azure"
+      ],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "name": "Toyota Financial Services Automation (SME)",
+      "description": "SME for automation team; maintained documentation, guided teammates, and ensured delivery quality.",
+      "stack": [
+        "Automation",
+        "Docs",
+        "Leadership"
+      ],
+      "demo": "",
+      "source": ""
+    }
+  ],
+  "skills": {
+    "Frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Angular",
+      "Tailwind CSS"
+    ],
+    "Backend": [
+      "Node.js",
+      "Express",
+      "Spring Boot"
+    ],
+    "AI & Automation": [
+      "Yellow AI",
+      "Kore AI",
+      "Power Apps"
+    ],
+    "Databases": [
+      "SQL"
+    ],
+    "Platforms": [
+      "ServiceNow",
+      "AWS",
+      "Azure"
+    ],
+    "Visualization": [
+      "Power BI"
+    ],
+    "Languages": [
+      "Java",
+      "Python",
+      "C",
+      "C++"
+    ]
+  }
+}
